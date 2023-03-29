@@ -1,0 +1,65 @@
+commit 6a346c82b95d3937bbc7daba74bc43b2082e7882 (HEAD -> master, origin/master, origin/HEAD, bug3)
+Author: stojanco-velkovski <velkovskistojanco@gmail.com>
+Date:   Wed Mar 29 11:57:13 2023 +0200
+
+    Fix method sumEvenNumbers.
+
+commit 6e0c019e1079e3022ba569dedf3d687cf72445cb
+Merge: 051c6ed 513d150
+Author: stojanco-velkovski <velkovskistojanco@gmail.com>
+Date:   Wed Mar 29 12:06:20 2023 +0200
+
+    Merge commit bug 2
+
+commit 513d150d879e361a5cc7cb0f6537a6b2dfa0f159 (origin/bug2, bug2)
+Author: stojanco-velkovski <velkovskistojanco@gmail.com>
+Date:   Wed Mar 29 11:55:02 2023 +0200
+
+    Fix wrong condition in filterOddNumbers.
+
+commit 051c6ed8e7eb47a8f8c300ea42539f1a8bdffccb (origin/bug1, bug1)
+Author: stojanco-velkovski <velkovskistojanco@gmail.com>
+Date:   Wed Mar 29 11:52:08 2023 +0200
+:...skipping...
+commit 6a346c82b95d3937bbc7daba74bc43b2082e7882 (HEAD -> master, origin/master, origin/HEAD, bug3)
+Author: stojanco-velkovski <velkovskistojanco@gmail.com>
+Date:   Wed Mar 29 11:57:13 2023 +0200
+
+    Fix method sumEvenNumbers.
+
+commit 6e0c019e1079e3022ba569dedf3d687cf72445cb
+Merge: 051c6ed 513d150
+Author: stojanco-velkovski <velkovskistojanco@gmail.com>
+Date:   Wed Mar 29 12:06:20 2023 +0200
+
+    Merge commit bug 2
+
+commit 513d150d879e361a5cc7cb0f6537a6b2dfa0f159 (origin/bug2, bug2)
+Author: stojanco-velkovski <velkovskistojanco@gmail.com>
+Date:   Wed Mar 29 11:55:02 2023 +0200
+
+    Fix wrong condition in filterOddNumbers.
+
+commit 051c6ed8e7eb47a8f8c300ea42539f1a8bdffccb (origin/bug1, bug1)
+Author: stojanco-velkovski <velkovskistojanco@gmail.com>
+Date:   Wed Mar 29 11:52:08 2023 +0200
+
+    Fix wrong loop for reading.
+
+commit 14d6885d0d018744dacd1ce06489cf86124d1fb1
+Author: stojanco-velkovski <velkovskistojanco@gmail.com>
+Date:   Wed Mar 29 11:43:01 2023 +0200
+
+    Add java class
+
+commit a72cecd1cd920eb455d83bacc7dc1515b388fa22
+Author: stojanco-velkovski <velkovskistojanco@gmail.com>
+Date:   Wed Mar 29 11:40:43 2023 +0200
+
+    Initial Commit
+
+commit d1e016f2c491339e540d8ee75f4397589b3c7c5a
+Author: stojanco-velkovski <127252215+stojanco-velkovski@users.noreply.github.com>
+Date:   Wed Mar 29 11:29:32 2023 +0200
+
+    Initial commit
